@@ -1,0 +1,54 @@
+.center{
+	text-align: center;
+}
+
+.centered{
+    width:200px;
+    margin:0 auto;
+    text-align:left;
+	font-family:'Arial Black';
+}
+
+.backg {
+	background-image: url("game_of_thrones.png")
+}
+
+.C {
+	font-family:'Arial Black';
+	font-size: 15px;
+	color: Red;
+}
+
+.S{
+	font-family:'Arial Black';
+	font-size: 15px;
+}
+
+
+#W{
+	color: white;
+	background-color: #000000;
+}
+
+#R{
+	color: red;
+	background-color: rgb(128, 128, 128);
+}
+
+a:link {
+    color: yellow;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: gray;
+	text-decoration: underline;
+}
+
+a:active {
+    color: purple;
+	text-decoration: underline;
+}
